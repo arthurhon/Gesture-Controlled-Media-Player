@@ -28,14 +28,6 @@ https://youtu.be/hSEMkWg0UvM
 2. The data is processed and fed into a neural network deployed from Edge Impulse.
 3. Prediction result is parsed, and if confidence > 0.95, a corresponding BLE media key is sent to the host PC.
 
-## Folder Structure
-```
-├── code/               # Arduino sketch (.ino file)
-├── model/              # Edge Impulse exported model (C++ SDK files)
-├── media/              # Photos, wiring diagrams, demo clips
-└── README.md           # This file
-```
-
 ## Setup Instructions
 1. Clone this repo
 2. Connect MPU6050 to ESP32 (SDA to GPIO21, SCL to GPIO22 by default)
