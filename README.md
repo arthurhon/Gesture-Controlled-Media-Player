@@ -62,7 +62,7 @@ Arthur Hon, UIUC ECE undergrad
 This project makes use of the following open-source libraries:
 
 - Wire (Arduino I2C Library) – Included with Arduino Core
-- Adafruit MPU6050 – [BSD License]([https://github.com/adafruit/Adafruit_MPU6050/blob/master/LICENSE](https://github.com/adafruit/Adafruit_MPU6050/blob/master/license.txt))
+- Adafruit MPU6050 – [BSD License](https://github.com/adafruit/Adafruit_MPU6050/blob/88b3f5983771ed6efc6c048b2c49c77ed1d417f2/license.txt)
 - ESP32 BLE Keyboard 
 
 ## License
