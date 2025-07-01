@@ -40,7 +40,7 @@ https://youtu.be/hSEMkWg0UvM
 5. Flash to ESP32 and pair it with your PC over Bluetooth
 
 ## Training
-This model was trained using Edge Impulse with ~200 gesture samples. Preprocessing used Raw Accelerometer → Spectral Features (FFT).
+This model was trained using Edge Impulse with ~200 gesture samples. Gestures are classified into 6 features: swipe left, swipe right, clockwise, anticlockwise, poke, and idle. Neural network was trained with 1000 training cycles. Model testing reveals an accuracy of 97.26% for live classification of gestures.
 
 ## Author
 Arthur Hon, UIUC ECE undergrad
