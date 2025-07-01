@@ -1,6 +1,6 @@
 # Gesture-Controlled Media Player 
 
-Control your computer's media playback using hand gestures — powered by an ESP32, MPU6050 accelerometer, and a custom-trained AI model via Edge Impulse.
+Control your computer's media playback using hand gestures, powered by an ESP32, MPU6050 accelerometer, and a custom-trained AI model via Edge Impulse.
 
 ## Features
 - Gesture recognition with on-device ML inference
@@ -51,7 +51,7 @@ https://youtu.be/hSEMkWg0UvM
 This model was trained using Edge Impulse with ~200 gesture samples. Preprocessing used Raw Accelerometer → Spectral Features (FFT).
 
 ## Author
-Arthur Hon — UIUC ECE undergrad
+Arthur Hon, UIUC ECE undergrad
 
 ## Links
 - [Edge Impulse](https://www.edgeimpulse.com)
