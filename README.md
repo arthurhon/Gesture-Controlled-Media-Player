@@ -20,9 +20,6 @@ Control your computer's media playback using hand gestures, powered by an ESP32,
 - Clockwise → Volume Up 
 - Anticlockwise → Volume Down 
 
-## Demo
-https://youtu.be/hSEMkWg0UvM
-
 ## How It Works
 1. MPU6050 collects accelerometer data.
 2. The data is processed and fed into a neural network deployed from Edge Impulse.
